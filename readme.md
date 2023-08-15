@@ -1,7 +1,7 @@
 # Awesome IoT and Hardware Security 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of awesome books, resources, software, documents, tools and cool stuff about security.
+A collection of awesome tools, books, resources, software, documents and cool stuff about Internet of Things (IoT) and Hardware Security.
 
 ## Contents
 
