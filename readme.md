@@ -3,6 +3,8 @@
 
 A collection of awesome tools, books, resources, software, documents and cool stuff about Internet of Things (IoT) and Hardware Security.
 
+Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hardware-security/graphs/contributors). The goal is to build community-driven collection of  well-known resources.
+
 ## Contents
 
 
