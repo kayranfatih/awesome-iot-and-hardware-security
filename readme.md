@@ -22,3 +22,4 @@ A collection of awesome tools, books, resources, software, documents and cool st
 
 ## Twitter Accounts
 
+## Standarts and Regulations
