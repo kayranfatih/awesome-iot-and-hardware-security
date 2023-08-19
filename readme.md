@@ -17,3 +17,8 @@ A collection of awesome tools, books, resources, software, documents and cool st
 ## Websites
 - [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) - Produces a document that will provide a detailed technical pathway for manufacturers to build secure devices for an increasingly insecure world.
 - [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) -  Is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.
+
+## Youtube Channels
+
+## Twitter Accounts
+
