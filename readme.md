@@ -8,6 +8,28 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ## Contents
 
 
+## Hardware Tools
+### Debugging Tools
+### SDR 
+### RFID NFC
+### Bluetooth BLE
+### Zigbee
+### Fault Injection - Glitching
+### Side Channel Analysis
+
+
+## Firmware Analysis Tools
+
+### Frameworks
+### Reverse Engineering
+
+## Fuzzing
+
+## Penetration Test Use-Cases
+
+
+## Standarts and Regulations
+
 ## Books
 - [Arm Assembly Internals and Reverse Engineering: Blue Fox Edition](https://www.wiley.com/en-be/Blue+Fox:+Arm+Assembly+Internals+and+Reverse+Engineering-p-9781119745303) - 2023, Publisher: Wiley, Author(s): Maria Markstedter aka Azeria
 - [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://nostarch.com/hardwarehacking) - 2021, Publisher: No Starch Press, Author(s): Jasper van Woudenberg, Colin O'Flynn 
@@ -24,4 +46,11 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 
 ## Twitter Accounts
 
-## Standarts and Regulations
+## Blogs
+
+## Trainings
+### Free Trainings
+### Paid Trainings
+
+## Conferences
+
