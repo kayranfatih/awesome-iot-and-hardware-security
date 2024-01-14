@@ -29,6 +29,18 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 
 
 ## Standarts and Regulations
+- [ETSI EN 303 645 - Cyber Security for Consumer Internet of Things: Baseline Requirements](https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.00_30/en_303645v020100v.pdf) 
+- [UK Code of Practice for Consumer IoT Security](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
+- [EU Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
+- [USA IoT Cybersecurity Improvement Act of 2020](https://www.congress.gov/bill/116th-congress/house-bill/1668)
+- [NISTIR 8259: Recommendations for IoT Device Manufacturers: Foundational Activities](https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program/nistir-8259-series)
+- [China CCRC: Implementation Rules on the Compulsory Certification of Information Technology Equipment](https://www.tuvsud.com/en/e-ssentials-newsletter/consumer-products-and-retail-essentials/e-ssentials-4-2023/china-implementation-rules-ccrc-c09-001-2022-for-compulsory-certification-of-it-equipment)
+- [The C2 Consensus on CSDE - IoT Device Security Baseline Capabilities](https://csde.org/projects/c2-consensus/)
+- [Digital Transformation Office of the Presidency of Türkiye - Information and Communication Security Guide(Türkiye Cumhurbaşkalığı Dijital Dönüşüm Ofisi - Bilgi ve İletişim Güvenliği Rehberi)](https://cbddo.gov.tr/bigrehber/)
+- [Türkiye TR-Test Cyber Security Tests IoT Criterias(Türkiye TR-Test Siber Güvenlik Testleri IoT Kriterleri)]([https://tr-test.com.tr/trtest/views/portalHeader/detay-56](https://tr-test.com.tr/trtest/views/paylasimEkGoster.htm?id=234&pt=0)
+- [NIST Recommended Criteria for Cybersecurity Labeling for Consumer Internet of Things (IoT) Products](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042022-2.pdf)
+- [ISO/IEC 27402:2023 Cybersecurity — IoT security and privacy — Device baseline requirements](https://www.iso.org/obp/ui/#iso:std:iso-iec:27402:ed-1:v1:en)
+
 
 ## Books
 - [Arm Assembly Internals and Reverse Engineering: Blue Fox Edition](https://www.wiley.com/en-be/Blue+Fox:+Arm+Assembly+Internals+and+Reverse+Engineering-p-9781119745303) - 2023, Publisher: Wiley, Author(s): Maria Markstedter aka Azeria
