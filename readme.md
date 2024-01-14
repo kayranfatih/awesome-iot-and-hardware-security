@@ -37,7 +37,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [China CCRC: Implementation Rules on the Compulsory Certification of Information Technology Equipment](https://www.tuvsud.com/en/e-ssentials-newsletter/consumer-products-and-retail-essentials/e-ssentials-4-2023/china-implementation-rules-ccrc-c09-001-2022-for-compulsory-certification-of-it-equipment)
 - [The C2 Consensus on CSDE - IoT Device Security Baseline Capabilities](https://csde.org/projects/c2-consensus/)
 - [Digital Transformation Office of the Presidency of Türkiye - Information and Communication Security Guide(Türkiye Cumhurbaşkalığı Dijital Dönüşüm Ofisi - Bilgi ve İletişim Güvenliği Rehberi)](https://cbddo.gov.tr/bigrehber/)
-- [Türkiye TR-Test Cyber Security Tests IoT Criterias(Türkiye TR-Test Siber Güvenlik Testleri IoT Kriterleri)]([https://tr-test.com.tr/trtest/views/portalHeader/detay-56](https://tr-test.com.tr/trtest/views/paylasimEkGoster.htm?id=234&pt=0)
+- [Türkiye TR-Test Cyber Security Tests IoT Criterias(Türkiye TR-Test Siber Güvenlik Testleri IoT Kriterleri)](https://tr-test.com.tr/trtest/views/portalHeader/detay-56)
 - [NIST Recommended Criteria for Cybersecurity Labeling for Consumer Internet of Things (IoT) Products](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.02042022-2.pdf)
 - [ISO/IEC 27402:2023 Cybersecurity — IoT security and privacy — Device baseline requirements](https://www.iso.org/obp/ui/#iso:std:iso-iec:27402:ed-1:v1:en)
 
