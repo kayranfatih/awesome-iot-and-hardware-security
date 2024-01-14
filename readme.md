@@ -73,4 +73,6 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ### Paid Trainings
 
 ## Conferences
+- [Hardwear.io Security Trainings and Conference](https://hardwear.io/)
+- [HITB Security Conference](https://conference.hitb.org/)
 
