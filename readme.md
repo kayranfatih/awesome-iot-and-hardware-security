@@ -85,6 +85,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 
 ## Blogs
 -  [Cybergibbons](https://cybergibbons.com/)
+-  [Hackaday](https://hackaday.com/)
 
 ## Trainings
 - [OpenSecurityTraining2](https://ost2.fyi/) - OpenSecurityTraining2's mission is to provide the world's deepest and best cybersecurity training
