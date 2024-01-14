@@ -75,4 +75,8 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ## Conferences
 - [Hardwear.io Security Trainings and Conference](https://hardwear.io/)
 - [HITB Security Conference](https://conference.hitb.org/)
+- [IoT Security Foundation Conference](https://iotsecurityfoundation.org/conference/)
+- [COSADE: Constructive Side-Channel Analysis and Secure Design](https://www.cosade.org/cosade24/)
+- [HASP Hardware and Architectural Support for Security and Privacy Workshop](https://haspworkshop.org/)
+- [SILM Security of Software/Hardware Interfaces Workshop](https://silm-workshop.github.io/)
 
