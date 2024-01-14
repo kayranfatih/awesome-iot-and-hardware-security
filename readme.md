@@ -65,12 +65,35 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [IoTVillage](https://www.youtube.com/@IoTVillage)
 
 ## Twitter Accounts
+- [Xeno Kovah](https://twitter.com/XenoKovah)
+- [LiveOverflow](https://twitter.com/LiveOverflow)
+- [Colin O'Flynn](https://twitter.com/colinoflynn)
+- [Hash](https://twitter.com/BitBangingBytes)
+- [Cesar Cerrudo](https://twitter.com/cesarcer)
+- [stacksmashing](https://twitter.com/ghidraninja)
+- [Ken Munro](https://twitter.com/TheKenMunroShow)
+- [Travis Goodspeed](https://twitter.com/travisgoodspeed)
+- [Michael Ossmann](https://twitter.com/michaelossmann)
+- [Azeria](https://twitter.com/Fox0x01)
+- [Cybergibbons](https://twitter.com/cybergibbons)
+- [Slawomir Jasek](https://twitter.com/slawekja)
+- [Antriksh Shah](https://twitter.com/antriksh_s)
+- [Aseem Jakhar](https://twitter.com/aseemjakhar)
+- [Kate Temkin](https://twitter.com/ktemkin)
+- [Joe Fitz](https://twitter.com/securelyfitz)
+- [Stephen A. Ridley](https://twitter.com/s7ephen)
 
 ## Blogs
+-  [Cybergibbons](https://cybergibbons.com/)
 
 ## Trainings
-### Free Trainings
-### Paid Trainings
+- [OpenSecurityTraining2](https://ost2.fyi/) - OpenSecurityTraining2's mission is to provide the world's deepest and best cybersecurity training
+- [Cyberpath: Practical IoT Hacking](https://cyberpath.training/) - Hands-on IoT hacking training
+- [Hextree.io](https://www.hextree.io/) - Introduction to hardware hacking training
+- [Attify Offensive IoT Exploitation](https://www.attify-store.com/collections/training) - Offensive IoT Exploitation
+
+
+
 
 ## Conferences
 - [Hardwear.io Security Trainings and Conference](https://hardwear.io/)
