@@ -73,7 +73,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Godbolt Compiler Explorer](https://godbolt.org/) - Online compiler for all purposes
 - [Dogbolt Decompiler Explorer](https://dogbolt.org/) - Online decompiler for all purposes
 - [Instruction Reference for x86 and amd64](https://www.felixcloutier.com/x86/index.html)
-- [Hardware Hacking Lab Guide](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide) - Beginners Guide to Building a Hardware Hacking Lab
+- [Hardware Hacking Lab Guide](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide) - Beginners guide to building a hardware hacking Lab
 
 ## Youtube Channel
 - [Colin O'Flynn](https://www.youtube.com/@ColinOFlynn)
@@ -133,5 +133,5 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 
 ## Awesome Lists
 - [TEE Reversing](https://github.com/enovella/TEE-reversing) - A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM devices
-- [A Collection for IoT Security Resources](https://github.com/V33RU/IoTSecurity101)
+- [A Collection for IoT Security Resources](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources
   
