@@ -50,9 +50,13 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Hardware Security: A Hands-on Learning Approach](https://shop.elsevier.com/books/hardware-security/bhunia/978-0-12-812477-2) - 2018, Publisher: Morgan Kaufmann, Author(s): Swarup Bhunia, Mark M. Tehranipoor
 - [IoT Penetration Testing Cookbook](https://www.packtpub.com/product/iot-penetration-testing-cookbook/9781787280571) - 2017, Publisher: Packt, Author(s): Aaron Guzman, Aditya Gupta
 
-## Websites
+## Useful Websites
 - [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) - Produces a document that will provide a detailed technical pathway for manufacturers to build secure devices for an increasingly insecure world.
 - [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) -  Is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.
+- [Godbolt Compiler Explorer](https://godbolt.org/) - Online compiler for all purposes
+- [Dogbolt Decompiler Explorer](https://dogbolt.org/) - Online decompiler for all purposes
+- [Instruction Reference for x86 and amd64](https://www.felixcloutier.com/x86/index.html)
+- [Hardware Hacking Lab Guide](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide) - Beginners Guide to Building a Hardware Hacking Lab
 
 ## Youtube Channel
 - [Colin O'Flynn](https://www.youtube.com/@ColinOFlynn)
@@ -86,6 +90,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ## Blogs
 -  [Cybergibbons](https://cybergibbons.com/)
 -  [Hackaday](https://hackaday.com/)
+-  [VoidStar Security Research and Blog Wiki](https://voidstarsec.com/hw-hacking-lab/) - Wiki articles on hardware hacking and other hardware security related content
 
 ## Trainings
 - [OpenSecurityTraining2](https://ost2.fyi/) - OpenSecurityTraining2's mission is to provide the world's deepest and best cybersecurity training
