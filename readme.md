@@ -11,7 +11,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ## Hardware Tools
 ### Debugging Tools
 - [Buspirate](https://www.sparkfun.com/products/12942) - The Bus Pirate is a troubleshooting tool that communicates between a PC and any embedded device over 1-wire, 2-wire, 3-wire, UART, I2C, SPI, and HD44780 LCD protocols - all at voltages from 0-5.5VDC
-- [Segger J-Link Debug Probes](https://www.segger.com/products/debug-probes/j-link/) - SEGGER J-Links are the most widely used line of debug probes on the market. They have provided solid value to embedded development for over a decade. Unparalleled performance, an extensive feature set, many supported CPUs and compatibility with popular environments all make J-Link an unbeatable choice
+- [SEGGER J-Link Debug Probes](https://www.segger.com/products/debug-probes/j-link/) - SEGGER J-Links are the most widely used line of debug probes on the market. They have provided solid value to embedded development for over a decade. Unparalleled performance, an extensive feature set, many supported CPUs and compatibility with popular environments all make J-Link an unbeatable choice
 - [Flipper Zero](https://flipperzero.one/) - Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more. It's fully open-source and customizable, so you can extend it in whatever way you like
 - [Hak5 Packet Squirrel](https://shop.hak5.org/products/packet-squirrel-mark-ii) - Ethernet Tap for capturing device traffic
 - 
