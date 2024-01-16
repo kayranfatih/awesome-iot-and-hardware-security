@@ -18,7 +18,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
   - [Firmware Analysis Frameworks](#Firmware-Analysis-Frameworks)
   - [Reverse Engineering](#Reverse-Engineering)
   - [Fuzzing](#Fuzzing)
-- [**Penetration Test Use-Cases**](#Penetration-Test-Use---Cases)
+- [**Penetration Test Use-Cases**](#Penetration-Test-Use-Cases)
 - [**Standarts and Regulations**](#Standarts-and-Regulations)
 - [**Books**](#Books)
 - [**Useful Websites**](#Useful-Websites)
