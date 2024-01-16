@@ -73,6 +73,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [EU Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
 - [USA IoT Cybersecurity Improvement Act of 2020](https://www.congress.gov/bill/116th-congress/house-bill/1668)
 - [NISTIR 8259: Recommendations for IoT Device Manufacturers: Foundational Activities](https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program/nistir-8259-series)
+- [ARM PSA IoT Security Framework and Certification](https://www.psacertified.org/) - ARM PSA Certified is providing a common language for the industry, allowing the entire value chain to work to the same requirements. The PSA Certified framework offers a standardized approach from initial IoT security design and implementation to security evaluation
 - [China CCRC: Implementation Rules on the Compulsory Certification of Information Technology Equipment](https://www.tuvsud.com/en/e-ssentials-newsletter/consumer-products-and-retail-essentials/e-ssentials-4-2023/china-implementation-rules-ccrc-c09-001-2022-for-compulsory-certification-of-it-equipment)
 - [The C2 Consensus on CSDE - IoT Device Security Baseline Capabilities](https://csde.org/projects/c2-consensus/)
 - [Digital Transformation Office of the Presidency of Türkiye - Information and Communication Security Guide(Türkiye Cumhurbaşkalığı Dijital Dönüşüm Ofisi - Bilgi ve İletişim Güvenliği Rehberi)](https://cbddo.gov.tr/bigrehber/)
