@@ -7,7 +7,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 
 ## Contents
 - [**Hardware Tools**](#Hardware-Tools)
-  - [**Debugging Tools**](#Debugging-Tools)
+  - [*Debugging Tools*](#Debugging-Tools)
 
 
 ## Hardware Tools
