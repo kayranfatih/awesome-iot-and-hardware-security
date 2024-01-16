@@ -13,7 +13,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
   - [RFID and NFC](#RFID-and-NFC)
   - [Bluetooth and BLE](#Bluetooth-and-BLE)
   - [Zigbee](#Zigbee)
-  - [Fault Injection - Glitching and Side Channel Analysis](Fault-Injection---Glitching-and-Side-Channel-Analysis)
+  - [Fault Injection - Glitching and Side Channel Analysis]('Fault-Injection-Glitching-and-Side-Channel-Analysis)
 - [**Software Tools**](#Software-Tools)
   - [Firmware Analysis Frameworks](#Firmware-Analysis-Frameworks)
   - [Reverse Engineering](#Reverse-Engineering)
