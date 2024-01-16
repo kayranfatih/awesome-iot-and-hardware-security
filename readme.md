@@ -6,7 +6,7 @@ A collection of awesome tools, books, resources, software, documents and cool st
 Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hardware-security/graphs/contributors). The goal is to build community-driven collection of  well-known resources.
 
 ## Contents
-- [Hardware Tools](## Hardware Tools)
+- [***Hardware Tools***](#Hardware-Tools)
 
 
 ## Hardware Tools
