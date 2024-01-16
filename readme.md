@@ -71,6 +71,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [ETSI EN 303 645 - Cyber Security for Consumer Internet of Things: Baseline Requirements](https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.00_30/en_303645v020100v.pdf) 
 - [UK Code of Practice for Consumer IoT Security](https://www.gov.uk/government/publications/code-of-practice-for-consumer-iot-security)
 - [EU Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
+- [Radio Equipment Directive (RED)](https://eur-lex.europa.eu/eli/reg_del/2022/30/oj) - On the 12th January 2022, the European Commission updated the Radio Equipment Directive (RED), which establishes a regulatory framework for placing radio equipment on the market, to include additional legislation related to security (2022/30/EU)
 - [USA IoT Cybersecurity Improvement Act of 2020](https://www.congress.gov/bill/116th-congress/house-bill/1668)
 - [NISTIR 8259: Recommendations for IoT Device Manufacturers: Foundational Activities](https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program/nistir-8259-series)
 - [ARM PSA IoT Security Framework and Certification](https://www.psacertified.org/) - ARM PSA Certified is providing a common language for the industry, allowing the entire value chain to work to the same requirements. The PSA Certified framework offers a standardized approach from initial IoT security design and implementation to security evaluation
@@ -92,6 +93,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ## Useful Websites
 - [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) - Produces a document that will provide a detailed technical pathway for manufacturers to build secure devices for an increasingly insecure world.
 - [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) -  Is designed to help manufacturers, developers, and consumers better understand the security issues associated with the Internet of Things, and to enable users in any context to make better security decisions when building, deploying, or assessing IoT technologies.
+- [ETSI Consumer IoT security](https://etsi.org/technologies/consumer-iot-security) - The Consumer IoT Security Road Map provides an overview of ETSI's world-leading work in consumer IoT security
 - [Godbolt Compiler Explorer](https://godbolt.org/) - Online compiler for all purposes
 - [Dogbolt Decompiler Explorer](https://dogbolt.org/) - Online decompiler for all purposes
 - [Instruction Reference for x86 and amd64](https://www.felixcloutier.com/x86/index.html)
