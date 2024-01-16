@@ -44,7 +44,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ### RFID and NFC
 ### Bluetooth and BLE
 ### Zigbee
-### Fault Injection, Glitching and Side Channel Analysis
+### Fault Injection - Glitching and Side Channel Analysis
 - [Chipwhisperer Kit](https://www.newae.com/chipwhisperer) - The ChipWhisperer® ecosystem presents the first open-source, low-cost solution to expose weaknesses that exist in embedded systems all around us
 - [ChipSHOUTER Kit](https://www.newae.com/products/nae-cw520) - The ChipSHOUTER® (CW520) is a fully-featured Electromagnetic Fault Injection (EMFI) platform that can be used to discover and characterize vulnerabilities in embedded systems
 
