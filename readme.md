@@ -8,7 +8,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ## Contents
 - [**Hardware Tools**](#Hardware-Tools)
   - [Debugging Tools](#Debugging-Tools)
-  - [Logic Analyzer & Oscilloscope](#Logic-Analyzer-and-Oscilloscope)
+  - [Logic Analyzer and Oscilloscope](#Logic-Analyzer-and-Oscilloscope)
 
 ## Hardware Tools
 ### Debugging Tools
@@ -17,7 +17,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Flipper Zero](https://flipperzero.one/) - Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more. It's fully open-source and customizable, so you can extend it in whatever way you like
 - [Hak5 Packet Squirrel](https://shop.hak5.org/products/packet-squirrel-mark-ii) - Ethernet Tap for capturing device traffic
   
-### Logic Analyzer nad Oscilloscope
+### Logic Analyzer and Oscilloscope
 - [Saleae Logic Analyzer](https://www.saleae.com/) - Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer
 - [Pico Oscilloscope](https://www.picotech.com/products/oscilloscope) - PC Oscilloscopes: the modern alternative to the traditional benchtop oscilloscope
 
