@@ -9,6 +9,25 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [**Hardware Tools**](#Hardware-Tools)
   - [Debugging Tools](#Debugging-Tools)
   - [Logic Analyzer and Oscilloscope](#Logic-Analyzer-and-Oscilloscope)
+  - [SDR](#SDR)
+  - [RFID and NFC](#RFID-and-NFC)
+  - [Bluetooth and BLE](#Bluetooth-and-BLE)
+  - [Zigbee](#Zigbee)
+  - [Fault Injection - Glitching and Side Channel Analysis](Fault-Injection---Glitching-and-Side-Channel-Analysis)
+- [**Software Tools**](#Software-Tools)
+  - [Firmware Analysis Frameworks](#Firmware-Analysis-Frameworks)
+  - [Reverse Engineering](#Reverse-Engineering)
+  - [Fuzzing](#Fuzzing)
+- [**Penetration Test Use-Cases**](#Penetration-Test-Use---Cases)
+- [**Standarts and Regulations**](#Standarts-and-Regulations)
+- [**Books**](#Books)
+- [**Useful Websites**](#Useful-Websites)
+- [**Youtube Channels**](#Youtube-Channels)
+- [**Twitter Accounts**](#Twitter-Accounts)
+- [**Blogs**](#Blogs)
+- [**Trainings**](#Trainings)
+- [**Conferences**](#Conferences)
+- [**Awesome Lists**](#Awesome-Lists)
 
 ## Hardware Tools
 ### Debugging Tools
@@ -21,20 +40,17 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Saleae Logic Analyzer](https://www.saleae.com/) - Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer
 - [Pico Oscilloscope](https://www.picotech.com/products/oscilloscope) - PC Oscilloscopes: the modern alternative to the traditional benchtop oscilloscope
 
-
 ### SDR 
-### RFID NFC
-### Bluetooth BLE
+### RFID and NFC
+### Bluetooth and BLE
 ### Zigbee
-### Fault Injection - Glitching & Side Channel Analysis
+### Fault Injection - Glitching and Side Channel Analysis
 - [Chipwhisperer Kit](https://www.newae.com/chipwhisperer) - The ChipWhisperer® ecosystem presents the first open-source, low-cost solution to expose weaknesses that exist in embedded systems all around us
 - [ChipSHOUTER Kit](https://www.newae.com/products/nae-cw520) - The ChipSHOUTER® (CW520) is a fully-featured Electromagnetic Fault Injection (EMFI) platform that can be used to discover and characterize vulnerabilities in embedded systems
-- 
 
+## Software Tools
 
-## Firmware Analysis Tools
-
-### Frameworks
+### Firmware Analysis Frameworks
 - [EMBA The security analyzer for firmware of embedded devices](https://github.com/e-m-b-a/emba) - EMBA is designed as the central firmware analysis tool for penetration testers and product security teams. It supports the complete security analysis process starting with firmware extraction, doing static analysis and dynamic analysis via emulation and finally generating a web report 
 
 ### Reverse Engineering
@@ -81,7 +97,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Instruction Reference for x86 and amd64](https://www.felixcloutier.com/x86/index.html)
 - [Hardware Hacking Lab Guide](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide) - Beginners guide to building a hardware hacking Lab
 
-## Youtube Channel
+## Youtube Channels
 - [Colin O'Flynn](https://www.youtube.com/@ColinOFlynn)
 - [Joe Grand aka kingpin](https://www.youtube.com/@JoeGrand)
 - [stacksmashing](https://www.youtube.com/@stacksmashing)
