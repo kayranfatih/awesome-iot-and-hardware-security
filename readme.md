@@ -12,9 +12,10 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
   - [SDR](#SDR)
   - [RFID and NFC](#RFID-and-NFC)
   - [Bluetooth and BLE](#Bluetooth-and-BLE)
+  - [MQTT](#MQTT)
   - [Zigbee](#Zigbee)
   - [Fault Injection - Glitching and Side Channel Analysis](#Fault-Injection---Glitching-and-Side-Channel-Analysis)
-  - [Firmware Analysis Frameworks](#Firmware-Analysis-Frameworks)
+  - [Firmware Analysis and Exploit Frameworks](#Firmware-Analysis-and-Exploit-Frameworks)
   - [Reverse Engineering](#Reverse-Engineering)
   - [Fuzzing](#Fuzzing)
 - [**Penetration Test Use-Cases**](#Penetration-Test-Use-Cases)
@@ -40,18 +41,52 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Pico Oscilloscope](https://www.picotech.com/products/oscilloscope) - PC Oscilloscopes: the modern alternative to the traditional benchtop oscilloscope
 
 ### SDR 
+- [RTL-SDR](https://www.rtl-sdr.com/) - The RTL-SDR is an ultra cheap software defined radio based on DVB-T TV tuners with RTL2832U chips. The RTL-SDR can be used as a wide band radio scanner. It may interest ham radio enthusiasts, hardware hackers, tinkerers and anyone interested in RF
+- [HackRF One](https://greatscottgadgets.com/hackrf/one/) - HackRF One from Great Scott Gadgets is a Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz. Designed to enable test and development of modern and next generation radio technologies, HackRF One is an open source hardware platform that can be used as a USB peripheral or programmed for stand-alone operation
+- [BladeRF](https://www.nuand.com/bladerf-1/) - bladeRF is a Software Defined Radio (SDR) platform designed to enable a community of hobbyists, and professionals to explore and experiment with the multidisciplinary facets of RF communication
+
 ### RFID and NFC
+- [Proxmark Platform](https://proxmark.com/) - The Proxmark is an RFID swiss-army tool, allowing for both high and low level interactions with the vast majority of RFID tags and systems world-wide. Originally built by Jonathan Westhues over 10 years ago, the device has progressively evolved into the industry standard tool for RFID Analysis
+
 ### Bluetooth and BLE
+- [bettercap](https://github.com/bettercap/bettercap) - bettercap is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks
+- [Btlejack](https://github.com/virtualabs/btlejack) - Btlejack provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices
+- [Ubertooth One](https://greatscottgadgets.com/ubertoothone/) - Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation
+- [nRF51 DK](https://www.nordicsemi.com/Products/Development-hardware/nrf51-dk) - Bluetooth Low Energy development kit for the nRF51 Series
+- [ESP32](https://www.espressif.com/en/products/socs/esp32) - A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications
+ 
+### MQTT
+- [Nmap MQTT Library](https://nmap.org/nsedoc/lib/mqtt.html) - Nmap MQTT Library
+- [MQTT-PWN](https://mqtt-pwn.readthedocs.io/en/latest/) - MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations, as it combines enumeration, supportive functions and exploitation modules while packing it all within command-line-interface with an easy-to-use and extensible shell-like environment
+- [Eclipse Mosquitto](https://mosquitto.org/) - Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers
+
 ### Zigbee
+- [RaspBee](https://phoscon.de/en/raspbee/) - The universal Raspberry Pi Zigbee gateway
+- [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dongle) - The nRF52840 Dongle is a small, low-cost USB dongle that supports Bluetooth 5.4, Bluetooth mesh, Thread, Zigbee, 802.15.4, ANT and 2.4 GHz proprietary protocols
+- [ZigDiggity](https://github.com/BishopFox/zigdiggity) - ZigBee Hacking Toolkit
+
 ### Fault Injection - Glitching and Side Channel Analysis
 - [Chipwhisperer Kit](https://www.newae.com/chipwhisperer) - The ChipWhisperer® ecosystem presents the first open-source, low-cost solution to expose weaknesses that exist in embedded systems all around us
 - [ChipSHOUTER Kit](https://www.newae.com/products/nae-cw520) - The ChipSHOUTER® (CW520) is a fully-featured Electromagnetic Fault Injection (EMFI) platform that can be used to discover and characterize vulnerabilities in embedded systems
 
-### Firmware Analysis Frameworks
-- [EMBA The security analyzer for firmware of embedded devices](https://github.com/e-m-b-a/emba) - EMBA is designed as the central firmware analysis tool for penetration testers and product security teams. It supports the complete security analysis process starting with firmware extraction, doing static analysis and dynamic analysis via emulation and finally generating a web report 
+### Firmware Analysis and Exploit Frameworks
+- [EMBA The security analyzer for firmware of embedded devices](https://github.com/e-m-b-a/emba) - EMBA is designed as the central firmware analysis tool for penetration testers and product security teams. It supports the complete security analysis process starting with firmware extraction, doing static analysis and dynamic analysis via emulation and finally generating a web report
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images
+- [Unblob](https://github.com/onekey-sec/unblob) - Unblob is an accurate, fast, and easy-to-use extraction suite. It parses unknown binary blobs for more than 30 different archive, compression, and file-system formats, extracts their content recursively, and carves out unknown chunks that have not been accounted for
+- [Panda.re](https://panda.re/) - PANDA is an open-source Platform for Architecture-Neutral Dynamic Analysis. It is built upon the QEMU whole system emulator, and so analyses have access to all code executing in the guest and all data. PANDA adds the ability to record and replay executions, enabling iterative, deep, whole system analyses
+- [EXPLIoT Framework](https://gitlab.com/expliot_framework/expliot) - A Framework for security testing and exploiting IoT products and IoT infrastructure. It provides a set of plugins (test cases) which are used to perform the assessment and can be extended easily with new ones
+- [RouterSploit](https://github.com/threat9/routersploit) - The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices
+- [IoTSecFuzz(ISF)](https://gitlab.com/invuls/iot-projects/iotsecfuzz) - IoTSecFuzz(ISF) was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library
+- [HomePwn - Swiss Army Knife for Pentesting of IoT Devices](https://github.com/Telefonica/HomePWN) - HomePwn is a framework that provides features to audit and pentesting devices that company employees can use in their day-to-day work and inside the same working environment. It is designed to find devices in the home or office, take advantage of certain vulnerabilities to read or send data to those devices
+- [QEMU](https://www.qemu.org/) - A generic and open source machine emulator and virtualizer
 
 ### Reverse Engineering
 - [Ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+- [IDA Pro](https://hex-rays.com/ida-pro/) - IDA Pro as a disassembler is capable of creating maps of their execution to show the binary instructions that are actually executed by the processor in a symbolic representation (assembly language)
+- [Radare2](https://rada.re/n/radare2.html) - A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging
+- [Cutter](https://cutter.re/) - An open-source GUI for Radare2 framework, Cutter's goal is to be an advanced FREE and open-source reverse-engineering platform while keeping the user experience at mind
+- [GDB: The GNU Project Debugger](https://www.sourceware.org/gdb/) - GDB allows you to see what is going on inside another program while it executes or what another program was doing at the moment it crashed
+- [x64dgb](https://x64dbg.com/) - An open-source x64/x32 debugger for windows
 
 ### Fuzzing
 - [AFL++](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support
@@ -63,6 +98,8 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Bosch Smart Home Hacks by Sebastien Leger](https://github.com/vegantransistor/BoschSmartHome)
 - [Glitched on Earth by Humans: A Black-Box Security Evaluation of the SpaceX Starlink User Terminal by Lennert Wouters](https://www.youtube.com/watch?v=NXqLMmGwJm0)
 - [SECGlitcher - Reproducible Voltage Glitching on STM32 Microcontrollers by SEC Consult](https://sec-consult.com/blog/detail/secglitcher-part-1-reproducible-voltage-glitching-on-stm32-microcontrollers/)
+- [Fault Injection Attacks against the ESP32-C3 and ESP32-C6](https://courk.cc/esp32-c3-c6-fault-injection)
+- [Breaking the Flash Encryption Feature of Espressif’s Parts](https://courk.cc/breaking-flash-encryption-of-espressif-parts)
 
 ## Standarts and Regulations
 - [ETSI EN 303 645 - Cyber Security for Consumer Internet of Things: Baseline Requirements](https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.00_30/en_303645v020100v.pdf) 
@@ -86,6 +123,8 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 
 ## Books
 - [Arm Assembly Internals and Reverse Engineering: Blue Fox Edition](https://www.wiley.com/en-be/Blue+Fox:+Arm+Assembly+Internals+and+Reverse+Engineering-p-9781119745303) - 2023, Publisher: Wiley, Author(s): Maria Markstedter aka Azeria
+- [Practical Hardware Pentesting, Second edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition-second-edition/9781803249322) - 2023, Publisher: Packt, Author(s): Jean-Georges Valle
+- [Hardware Security Training, Hands-on!](https://link.springer.com/book/10.1007/978-3-031-31034-8) - 2023, Publisher: Springer, Author(s): Mark Tehranipoor, N. Nalla Anandakumar, Farimah Farahmandi
 - [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://nostarch.com/hardwarehacking) - 2021, Publisher: No Starch Press, Author(s): Jasper van Woudenberg, Colin O'Flynn 
 - [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for red team hackers, pentesters and security researchers](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf) - 2020, Publisher: N/A, Author(s): Yago Hansen
 - [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.oreilly.com/library/view/the-iot-hackers/9781484243008/) - 2019, Publisher: Apress, Author(s):  Aditya Gupta
@@ -124,7 +163,6 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Azeria](https://twitter.com/Fox0x01)
 - [Cybergibbons](https://twitter.com/cybergibbons)
 - [Slawomir Jasek](https://twitter.com/slawekja)
-- [Antriksh Shah](https://twitter.com/antriksh_s)
 - [Aseem Jakhar](https://twitter.com/aseemjakhar)
 - [Kate Temkin](https://twitter.com/ktemkin)
 - [Joe Fitz](https://twitter.com/securelyfitz)
@@ -132,7 +170,6 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Charlie Miller](https://twitter.com/0xcharlie)
 - [Samy Kamkar](https://twitter.com/samykamkar)
 - [/dev/ttyS0](https://twitter.com/devttyS0)
-
 
 ## Blogs
 -  [Cybergibbons](https://cybergibbons.com/)
@@ -160,4 +197,5 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ## Awesome Lists
 - [TEE Reversing](https://github.com/enovella/TEE-reversing) - A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM devices
 - [A Collection for IoT Security Resources](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources
+- [Awesome Bluetooth Security (BR, EDR, LE, and Mesh)](https://github.com/engn33r/awesome-bluetooth-security)
   
