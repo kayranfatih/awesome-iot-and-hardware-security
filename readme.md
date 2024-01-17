@@ -6,7 +6,7 @@ A collection of awesome tools, books, resources, software, documents and cool st
 Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hardware-security/graphs/contributors). The goal is to build community-driven collection of  well-known resources.
 
 ## Contents
-- [**Hardware Tools**](#Hardware-Tools)
+- [**Testing Tools**](#Testing-Tools)
   - [Debugging Tools](#Debugging-Tools)
   - [Logic Analyzer and Oscilloscope](#Logic-Analyzer-and-Oscilloscope)
   - [SDR](#SDR)
@@ -14,7 +14,6 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
   - [Bluetooth and BLE](#Bluetooth-and-BLE)
   - [Zigbee](#Zigbee)
   - [Fault Injection - Glitching and Side Channel Analysis](#Fault-Injection---Glitching-and-Side-Channel-Analysis)
-- [**Software Tools**](#Software-Tools)
   - [Firmware Analysis Frameworks](#Firmware-Analysis-Frameworks)
   - [Reverse Engineering](#Reverse-Engineering)
   - [Fuzzing](#Fuzzing)
@@ -29,7 +28,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [**Conferences**](#Conferences)
 - [**Awesome Lists**](#Awesome-Lists)
 
-## Hardware Tools
+## Testing Tools
 ### Debugging Tools
 - [Buspirate](https://www.sparkfun.com/products/12942) - The Bus Pirate is a troubleshooting tool that communicates between a PC and any embedded device over 1-wire, 2-wire, 3-wire, UART, I2C, SPI, and HD44780 LCD protocols - all at voltages from 0-5.5VDC
 - [SEGGER J-Link Debug Probes](https://www.segger.com/products/debug-probes/j-link/) - SEGGER J-Links are the most widely used line of debug probes on the market. They have provided solid value to embedded development for over a decade. Unparalleled performance, an extensive feature set, many supported CPUs and compatibility with popular environments all make J-Link an unbeatable choice
@@ -48,15 +47,13 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Chipwhisperer Kit](https://www.newae.com/chipwhisperer) - The ChipWhisperer® ecosystem presents the first open-source, low-cost solution to expose weaknesses that exist in embedded systems all around us
 - [ChipSHOUTER Kit](https://www.newae.com/products/nae-cw520) - The ChipSHOUTER® (CW520) is a fully-featured Electromagnetic Fault Injection (EMFI) platform that can be used to discover and characterize vulnerabilities in embedded systems
 
-## Software Tools
-
 ### Firmware Analysis Frameworks
 - [EMBA The security analyzer for firmware of embedded devices](https://github.com/e-m-b-a/emba) - EMBA is designed as the central firmware analysis tool for penetration testers and product security teams. It supports the complete security analysis process starting with firmware extraction, doing static analysis and dynamic analysis via emulation and finally generating a web report 
 
 ### Reverse Engineering
 - [Ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 
-## Fuzzing
+### Fuzzing
 - [AFL++](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support
 
 ## Penetration Test Use-Cases
