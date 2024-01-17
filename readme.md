@@ -99,8 +99,8 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Bosch Smart Home Hacks by Sebastien Leger](https://github.com/vegantransistor/BoschSmartHome)
 - [Glitched on Earth by Humans: A Black-Box Security Evaluation of the SpaceX Starlink User Terminal by Lennert Wouters](https://www.youtube.com/watch?v=NXqLMmGwJm0)
 - [SECGlitcher - Reproducible Voltage Glitching on STM32 Microcontrollers by SEC Consult](https://sec-consult.com/blog/detail/secglitcher-part-1-reproducible-voltage-glitching-on-stm32-microcontrollers/)
-- [Fault Injection Attacks against the ESP32-C3 and ESP32-C6](https://courk.cc/esp32-c3-c6-fault-injection)
-- [Breaking the Flash Encryption Feature of Espressif’s Parts](https://courk.cc/breaking-flash-encryption-of-espressif-parts)
+- [Fault Injection Attacks against the ESP32-C3 and ESP32-C6 by Kévin Courdesses](https://courk.cc/esp32-c3-c6-fault-injection)
+- [Breaking the Flash Encryption Feature of Espressif’s Parts by Kévin Courdesses](https://courk.cc/breaking-flash-encryption-of-espressif-parts)
 
 ## Standarts and Regulations
 - [ETSI EN 303 645 - Cyber Security for Consumer Internet of Things: Baseline Requirements](https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.00_30/en_303645v020100v.pdf) 
