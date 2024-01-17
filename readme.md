@@ -68,6 +68,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ### Fault Injection - Glitching and Side Channel Analysis
 - [Chipwhisperer Kit](https://www.newae.com/chipwhisperer) - The ChipWhisperer® ecosystem presents the first open-source, low-cost solution to expose weaknesses that exist in embedded systems all around us
 - [ChipSHOUTER Kit](https://www.newae.com/products/nae-cw520) - The ChipSHOUTER® (CW520) is a fully-featured Electromagnetic Fault Injection (EMFI) platform that can be used to discover and characterize vulnerabilities in embedded systems
+- [ChipSHOUTER-PicoEMP Kit](https://store.newae.com/chipshouter-picoemp) - Little brother to the lab-grade, high performance ChipSHOUTER tool, our PicoEMP "Build Your Own" Kit is a low-cost Electromagnetic Fault Injection (EMFI) tool, designed specifically for self-study and hobbyist research
 
 ### Firmware Analysis and Exploit Frameworks
 - [EMBA The security analyzer for firmware of embedded devices](https://github.com/e-m-b-a/emba) - EMBA is designed as the central firmware analysis tool for penetration testers and product security teams. It supports the complete security analysis process starting with firmware extraction, doing static analysis and dynamic analysis via emulation and finally generating a web report
