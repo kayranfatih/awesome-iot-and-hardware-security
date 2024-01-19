@@ -227,4 +227,5 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Awesome Bluetooth Security (BR, EDR, LE, and Mesh)](https://github.com/engn33r/awesome-bluetooth-security)
 - [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 - [Awesome Embedded Linux](https://github.com/fkromer/awesome-embedded-linux)
+- [Awesome IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)
   
