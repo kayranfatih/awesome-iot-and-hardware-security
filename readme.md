@@ -18,6 +18,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
   - [Firmware Analysis and Exploit Frameworks](#Firmware-Analysis-and-Exploit-Frameworks)
   - [Reverse Engineering](#Reverse-Engineering)
   - [Fuzzing](#Fuzzing)
+  - [Misc Tools](#Misc-Tools)
 - [**Penetration Test Use-Cases**](#Penetration-Test-Use-Cases)
 - [**Standarts and Regulations**](#Standarts-and-Regulations)
 - [**Books**](#Books)
@@ -37,7 +38,6 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [FTDI FT2232H](https://www.ftdichip.com/old2020/Products/ICs/FT2232H.html) - The FT2232H is FTDI’s 5th generation of USB devices.  The FT2232H is a USB 2.0 Hi-Speed (480Mb/s) to UART/FIFO IC.  It has the capability of being configured in a variety of industry standard serial or parallel interfaces. The FT2232H has two multi-protocol synchronous serial engines (MPSSEs) which allow for communication using JTAG, I2C and SPI on two channels simultaneously.
 - [Hak5 Packet Squirrel](https://shop.hak5.org/products/packet-squirrel-mark-ii) - Ethernet Tap for capturing device traffic
 - [OpenOCD: Open On-Chip Debugger](https://openocd.org/) - OpenOCD, the Open On-Chip Debugger has been created by Dominic Rath as part of a diploma thesis at the University of Applied Sciences, FH-Augsburg
-- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Given an Arduino compatible microcontroller or Raspberry PI (experimental), JTAGenum scans pins for basic JTAG functionality and can be used to enumerate the Instruction Register for undocumented instructions
   
 ### Logic Analyzer and Oscilloscope
 - [Saleae Logic Analyzer](https://www.saleae.com/) - Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer
@@ -109,6 +109,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ### Misc Tools
 - [Dumpflash](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility
 - [Flashrom](https://github.com/flashrom/flashrom) - Flashrom is a utility for detecting, reading, writing, verifying and erasing flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images in-system using a supported mainboard, but it also supports flashing of network cards (NICs), SATA controller cards, and other external devices which can program flash chips
+- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Given an Arduino compatible microcontroller or Raspberry PI (experimental), JTAGenum scans pins for basic JTAG functionality and can be used to enumerate the Instruction Register for undocumented instructions
 
 ## Penetration Test Use-Cases
 - [Getting Root on Philips Hue Bridge 2.0 by Colin O'Flynn](https://colinoflynn.com/2016/07/getting-root-on-philips-hue-bridge-2-0/)
