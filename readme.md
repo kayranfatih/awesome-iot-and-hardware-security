@@ -36,6 +36,8 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Flipper Zero](https://flipperzero.one/) - Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more. It's fully open-source and customizable, so you can extend it in whatever way you like
 - [FTDI FT2232H](https://www.ftdichip.com/old2020/Products/ICs/FT2232H.html) - The FT2232H is FTDI’s 5th generation of USB devices.  The FT2232H is a USB 2.0 Hi-Speed (480Mb/s) to UART/FIFO IC.  It has the capability of being configured in a variety of industry standard serial or parallel interfaces. The FT2232H has two multi-protocol synchronous serial engines (MPSSEs) which allow for communication using JTAG, I2C and SPI on two channels simultaneously.
 - [Hak5 Packet Squirrel](https://shop.hak5.org/products/packet-squirrel-mark-ii) - Ethernet Tap for capturing device traffic
+- [OpenOCD: Open On-Chip Debugger](https://openocd.org/) - OpenOCD, the Open On-Chip Debugger has been created by Dominic Rath as part of a diploma thesis at the University of Applied Sciences, FH-Augsburg
+- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Given an Arduino compatible microcontroller or Raspberry PI (experimental), JTAGenum scans pins for basic JTAG functionality and can be used to enumerate the Instruction Register for undocumented instructions
   
 ### Logic Analyzer and Oscilloscope
 - [Saleae Logic Analyzer](https://www.saleae.com/) - Effortlessly decode protocols like SPI, I2C, Serial, and many more. Leverage community created analyzers or build your own low-level or high-level protocol analyzer
@@ -49,6 +51,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 
 ### RFID and NFC
 - [Proxmark Platform](https://proxmark.com/) - The Proxmark is an RFID swiss-army tool, allowing for both high and low level interactions with the vast majority of RFID tags and systems world-wide. Originally built by Jonathan Westhues over 10 years ago, the device has progressively evolved into the industry standard tool for RFID Analysis
+- [HydraNFC](https://hydrabus.com/hydranfc-1-0-specifications) - HydraNFC Shield v1.0 is an NFC shield hardware (to be plugged on top of HydraBus) to sniff/read/write/emulate any 13.56MHz NFC tags for anyone interested in advanced NFC Research/Dev/Debug/Hack/PenTest on NFC products
 
 ### Bluetooth and BLE
 - [bettercap](https://github.com/bettercap/bettercap) - bettercap is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks
@@ -81,7 +84,10 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [EMBA The security analyzer for firmware of embedded devices](https://github.com/e-m-b-a/emba) - EMBA is designed as the central firmware analysis tool for penetration testers and product security teams. It supports the complete security analysis process starting with firmware extraction, doing static analysis and dynamic analysis via emulation and finally generating a web report
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images
 - [Unblob](https://github.com/onekey-sec/unblob) - Unblob is an accurate, fast, and easy-to-use extraction suite. It parses unknown binary blobs for more than 30 different archive, compression, and file-system formats, extracts their content recursively, and carves out unknown chunks that have not been accounted for
+- [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit) - The Firmware Mod Kit allows for easy deconstruction and reconstruction of firmware images for various embedded devices. While it primarily targets Linux based routers, it should be compatible with most firmware that makes use of common firmware formats and file systems such as TRX/uImage and SquashFS/CramFS
 - [Panda.re](https://panda.re/) - PANDA is an open-source Platform for Architecture-Neutral Dynamic Analysis. It is built upon the QEMU whole system emulator, and so analyses have access to all code executing in the guest and all data. PANDA adds the ability to record and replay executions, enabling iterative, deep, whole system analyses
+- [The Firmware Analysis and Comparison Tool (FACT)](https://fkie-cad.github.io/FACT_core/) - The Firmware Analysis and Comparison Tool (FACT) is intended to automate Firmware Security analysis (Router, IoT, UEFI, Webcams, Drones, …). Thereby it shall be easy to use (web UI), extend (plug-in system) and integrate (REST API)
+- [HAL – The Hardware Analyzer](https://github.com/emsec/hal) - HAL [/hel/] is a comprehensive netlist reverse engineering and manipulation framework
 - [EXPLIoT Framework](https://gitlab.com/expliot_framework/expliot) - A Framework for security testing and exploiting IoT products and IoT infrastructure. It provides a set of plugins (test cases) which are used to perform the assessment and can be extended easily with new ones
 - [RouterSploit](https://github.com/threat9/routersploit) - The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices
 - [IoTSecFuzz(ISF)](https://gitlab.com/invuls/iot-projects/iotsecfuzz) - IoTSecFuzz(ISF) was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library
@@ -99,6 +105,10 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ### Fuzzing
 - [AFL++](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support
 - [Boofuzz: Network Protocol Fuzzing for Humans](https://github.com/jtpereyda/boofuzz) - Boofuzz is a fork of and the successor to the venerable Sulley fuzzing framework. Besides numerous bug fixes, boofuzz aims for extensibility
+
+### Misc Tools
+- [Dumpflash](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility
+- [Flashrom](https://github.com/flashrom/flashrom) - Flashrom is a utility for detecting, reading, writing, verifying and erasing flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images in-system using a supported mainboard, but it also supports flashing of network cards (NICs), SATA controller cards, and other external devices which can program flash chips
 
 ## Penetration Test Use-Cases
 - [Getting Root on Philips Hue Bridge 2.0 by Colin O'Flynn](https://colinoflynn.com/2016/07/getting-root-on-philips-hue-bridge-2-0/)
@@ -158,6 +168,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [GuidedHacking](https://www.youtube.com/@GuidedHacking)
 - [RECESSIM](https://www.youtube.com/@RECESSIM)
 - [IoTVillage](https://www.youtube.com/@IoTVillage)
+- [Flashback Team](https://www.youtube.com/@FlashbackTeam)
 
 ## Twitter Accounts
 - [Xeno Kovah](https://twitter.com/XenoKovah)
@@ -187,6 +198,8 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 -  [Riscure's Blog](https://www.riscure.com/blog/)
 -  [Quarkslab's Blog](https://blog.quarkslab.com/)
 -  [SRLabs' Blog](https://www.srlabs.de/blog)
+-  [Wrongbaud's Blog](https://wrongbaud.github.io/)
+-  [Pentestpartners' Blog](https://www.pentestpartners.com/internet-of-things/)
 
 ## Trainings
 - [OpenSecurityTraining2](https://ost2.fyi/) - OpenSecurityTraining2's mission is to provide the world's deepest and best cybersecurity training
@@ -194,6 +207,10 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Hextree.io](https://www.hextree.io/) - Introduction to hardware hacking training
 - [Attify Offensive IoT Exploitation](https://www.attify-store.com/collections/training) - Offensive IoT Exploitation
 - [Introduction to Reverse Engineering with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra) - Learn how to reverse engineer software using Ghidra! This four-session course will walk you through the basics.
+- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt
+- [Rhme-2015](https://github.com/Riscure/RHme-2015) - Riscure Hack Me hardware CTF challenge
+- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack Me 2 hardware CTF challenge
+- [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 CTF challenge
 
 ## Conferences
 - [Hardwear.io Security Trainings and Conference](https://hardwear.io/)
@@ -207,4 +224,6 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [TEE Reversing](https://github.com/enovella/TEE-reversing) - A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM devices
 - [A Collection for IoT Security Resources](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources
 - [Awesome Bluetooth Security (BR, EDR, LE, and Mesh)](https://github.com/engn33r/awesome-bluetooth-security)
+- [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+- [Awesome Embedded Linux](https://github.com/fkromer/awesome-embedded-linux)
   
