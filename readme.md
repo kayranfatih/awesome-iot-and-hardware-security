@@ -34,6 +34,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Buspirate](https://www.sparkfun.com/products/12942) - The Bus Pirate is a troubleshooting tool that communicates between a PC and any embedded device over 1-wire, 2-wire, 3-wire, UART, I2C, SPI, and HD44780 LCD protocols - all at voltages from 0-5.5VDC
 - [SEGGER J-Link Debug Probes](https://www.segger.com/products/debug-probes/j-link/) - SEGGER J-Links are the most widely used line of debug probes on the market. They have provided solid value to embedded development for over a decade. Unparalleled performance, an extensive feature set, many supported CPUs and compatibility with popular environments all make J-Link an unbeatable choice
 - [Flipper Zero](https://flipperzero.one/) - Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware, and more. It's fully open-source and customizable, so you can extend it in whatever way you like
+- [FTDI FT2232H](https://www.ftdichip.com/old2020/Products/ICs/FT2232H.html) - The FT2232H is FTDI’s 5th generation of USB devices.  The FT2232H is a USB 2.0 Hi-Speed (480Mb/s) to UART/FIFO IC.  It has the capability of being configured in a variety of industry standard serial or parallel interfaces. The FT2232H has two multi-protocol synchronous serial engines (MPSSEs) which allow for communication using JTAG, I2C and SPI on two channels simultaneously.
 - [Hak5 Packet Squirrel](https://shop.hak5.org/products/packet-squirrel-mark-ii) - Ethernet Tap for capturing device traffic
   
 ### Logic Analyzer and Oscilloscope
@@ -41,6 +42,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Pico Oscilloscope](https://www.picotech.com/products/oscilloscope) - PC Oscilloscopes: the modern alternative to the traditional benchtop oscilloscope
 
 ### SDR 
+- [GNURadio](https://github.com/gnuradio/gnuradio) - GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios. It can be used with readily-available, low-cost external RF hardware to create software-defined radios, or without hardware in a simulation-like environment
 - [RTL-SDR](https://www.rtl-sdr.com/) - The RTL-SDR is an ultra cheap software defined radio based on DVB-T TV tuners with RTL2832U chips. The RTL-SDR can be used as a wide band radio scanner. It may interest ham radio enthusiasts, hardware hackers, tinkerers and anyone interested in RF
 - [HackRF One](https://greatscottgadgets.com/hackrf/one/) - HackRF One from Great Scott Gadgets is a Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz. Designed to enable test and development of modern and next generation radio technologies, HackRF One is an open source hardware platform that can be used as a USB peripheral or programmed for stand-alone operation
 - [BladeRF](https://www.nuand.com/bladerf-1/) - bladeRF is a Software Defined Radio (SDR) platform designed to enable a community of hobbyists, and professionals to explore and experiment with the multidisciplinary facets of RF communication
@@ -66,9 +68,14 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [ZigDiggity](https://github.com/BishopFox/zigdiggity) - ZigBee Hacking Toolkit
 
 ### Fault Injection - Glitching and Side Channel Analysis
+- [An Introduction to Fault Injection by NCCGroup](https://research.nccgroup.com/2021/07/07/an-introduction-to-fault-injection-part-1-3/)
+- [One Glitch to Rule Them All: Fault Injection Attacks against AMD’s Secure Processor](https://i.blackhat.com/EU-21/Wednesday/EU-21-Buhren-One-Glitch-to-Rule-them-All-Fault-Injection-Attacks-Against-AMDs-Secure-Processor.pdf)
+- [Chip.fail](https://chip.fail/) - With chip.fail, we attempt to bring fault-injection (aka glitching) attacks to the masses by providing a very affordable, off-the-shelf toolkit for conducting FI-susceptibility testing 
 - [Chipwhisperer Kit](https://www.newae.com/chipwhisperer) - The ChipWhisperer® ecosystem presents the first open-source, low-cost solution to expose weaknesses that exist in embedded systems all around us
 - [ChipSHOUTER Kit](https://www.newae.com/products/nae-cw520) - The ChipSHOUTER® (CW520) is a fully-featured Electromagnetic Fault Injection (EMFI) platform that can be used to discover and characterize vulnerabilities in embedded systems
 - [ChipSHOUTER-PicoEMP Kit](https://store.newae.com/chipshouter-picoemp) - Little brother to the lab-grade, high performance ChipSHOUTER tool, our PicoEMP "Build Your Own" Kit is a low-cost Electromagnetic Fault Injection (EMFI) tool, designed specifically for self-study and hobbyist research
+- [RP2040: Pico Glitcher](https://github.com/ZeusWPI/pico-glitcher) - Low-cost, Raspberry Pi Pico chip based voltage glitcher
+- [ICEStick ICE40 FPGA Glitcher](https://github.com/SySS-Research/icestick-glitcher) - The iCEstick Glitcher is a simple voltage glitcher for a Lattice iCEstick Evaluation Kit
 
 ### Firmware Analysis and Exploit Frameworks
 - [EMBA The security analyzer for firmware of embedded devices](https://github.com/e-m-b-a/emba) - EMBA is designed as the central firmware analysis tool for penetration testers and product security teams. It supports the complete security analysis process starting with firmware extraction, doing static analysis and dynamic analysis via emulation and finally generating a web report
@@ -91,6 +98,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 
 ### Fuzzing
 - [AFL++](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support
+- [Boofuzz: Network Protocol Fuzzing for Humans](https://github.com/jtpereyda/boofuzz) - Boofuzz is a fork of and the successor to the venerable Sulley fuzzing framework. Besides numerous bug fixes, boofuzz aims for extensibility
 
 ## Penetration Test Use-Cases
 - [Getting Root on Philips Hue Bridge 2.0 by Colin O'Flynn](https://colinoflynn.com/2016/07/getting-root-on-philips-hue-bridge-2-0/)
