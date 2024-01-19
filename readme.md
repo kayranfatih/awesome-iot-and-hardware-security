@@ -208,7 +208,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Hextree.io](https://www.hextree.io/) - Introduction to hardware hacking training
 - [Attify Offensive IoT Exploitation](https://www.attify-store.com/collections/training) - Offensive IoT Exploitation
 - [Introduction to Reverse Engineering with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra) - Learn how to reverse engineer software using Ghidra! This four-session course will walk you through the basics.
-- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt
+- [IoTGoat](https://github.com/OWASP/IoTGoat) - The IoTGoat Project is a deliberately insecure firmware based on OpenWrt and maintained by OWASP as a platform to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices
 - [Rhme-2015](https://github.com/Riscure/RHme-2015) - Riscure Hack Me hardware CTF challenge
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack Me 2 hardware CTF challenge
 - [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 CTF challenge
