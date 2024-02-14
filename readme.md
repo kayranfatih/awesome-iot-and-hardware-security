@@ -201,6 +201,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 -  [SRLabs' Blog](https://www.srlabs.de/blog)
 -  [Wrongbaud's Blog](https://wrongbaud.github.io/)
 -  [Pentestpartners' Blog](https://www.pentestpartners.com/internet-of-things/)
+-  [Limited Results' Blog](https://limitedresults.com/)
 
 ## Trainings
 - [OpenSecurityTraining2](https://ost2.fyi/) - OpenSecurityTraining2's mission is to provide the world's deepest and best cybersecurity training
