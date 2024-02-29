@@ -223,6 +223,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [COSADE: Constructive Side-Channel Analysis and Secure Design](https://www.cosade.org/cosade24/)
 - [HASP Hardware and Architectural Support for Security and Privacy Workshop](https://haspworkshop.org/)
 - [SILM Security of Software/Hardware Interfaces Workshop](https://silm-workshop.github.io/)
+- [HACK@DAC](https://www.dac.com/Conference/HackDAC) - HACK@DAC is a hardware security challenge contest, co-located with the Design and Automation Conference (DAC), for finding and exploiting security-critical vulnerabilities in hardware and firmware. In this competition, participants compete to identify the security vulnerabilities, implement the related exploits, propose mitigation techniques or patches, and report them
 
 ## Awesome Lists
 - [TEE Reversing](https://github.com/enovella/TEE-reversing) - A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM devices
