@@ -162,7 +162,6 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Dogbolt Decompiler Explorer](https://dogbolt.org/) - Online decompiler for all purposes
 - [Instruction Reference for x86 and amd64](https://www.felixcloutier.com/x86/index.html)
 - [Hardware Hacking Lab Guide](https://voidstarsec.com/hw-hacking-lab/vss-lab-guide) - Beginners guide to building a hardware hacking Lab
-- [embeddedsecurity.io](https://embeddedsecurity.io/) - Embedded Systems Security and TrustZone E-Book
 
 ## Youtube Channels
 - [Colin O'Flynn](https://www.youtube.com/@ColinOFlynn)
@@ -206,6 +205,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 -  [Wrongbaud's Blog](https://wrongbaud.github.io/)
 -  [Pentestpartners' Blog](https://www.pentestpartners.com/internet-of-things/)
 -  [Limited Results' Blog](https://limitedresults.com/)
+-  [embeddedsecurity.io](https://embeddedsecurity.io/) - Embedded systems security and trustzone e-book
 
 ## Trainings
 - [OpenSecurityTraining2](https://ost2.fyi/) - OpenSecurityTraining2's mission is to provide the world's deepest and best cybersecurity training
