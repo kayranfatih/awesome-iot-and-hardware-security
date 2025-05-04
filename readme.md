@@ -60,6 +60,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Ubertooth One](https://greatscottgadgets.com/ubertoothone/) - Ubertooth One is an open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation
 - [nRF51 DK](https://www.nordicsemi.com/Products/Development-hardware/nrf51-dk) - Bluetooth Low Energy development kit for the nRF51 Series
 - [ESP32](https://www.espressif.com/en/products/socs/esp32) - A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications
+- [Sniffle](https://github.com/nccgroup/Sniffle) - A sniffer for Bluetooth 5 and 4.x (LE) using TI CC1352/CC26x2 hardware
  
 ### MQTT
 - [Nmap MQTT Library](https://nmap.org/nsedoc/lib/mqtt.html) - Nmap MQTT Library
