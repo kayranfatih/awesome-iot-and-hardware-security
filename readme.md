@@ -149,6 +149,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [The Firmware Analysis and Comparison Tool (FACT)](https://fkie-cad.github.io/FACT_core/) - Automates firmware security analysis of routers, IoT devices, UEFI, webcams, and drones, with a web UI, plugin system, and REST API.
 - [FirmWire](https://github.com/FirmWire/FirmWire) - Full-system baseband firmware emulation platform for dynamic analysis of embedded and mobile firmware.
 - [FIRMADYNE](https://github.com/firmadyne/firmadyne) - Automated system for emulating and dynamically analyzing Linux-based embedded firmware.
+- [firmware-auditor](https://github.com/RichJJ98/firmware-auditor) - Zero-emulation static security analysis framework for unpacked firmware rootfs (ELF hardening & filesystem posture) with native SARIF output.
 - [FirmAE](https://github.com/pr0v3rbs/FirmAE) - Scalable firmware emulation framework that improves analysis coverage for Linux-based IoT firmware.
 - [HAL - The Hardware Analyzer](https://github.com/emsec/hal) - Comprehensive netlist reverse engineering and manipulation framework.
 - [EXPLIoT Framework](https://gitlab.com/expliot_framework/expliot) - Extensible framework of plugins for security testing and exploiting IoT products and infrastructure.
