@@ -270,6 +270,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [FCC ID Search](https://fccid.io/) - Search FCC filings for internal photos, test reports, and manuals of wireless devices.
 - [Octopart](https://octopart.com/) - Electronic component search engine for finding datasheets and part details.
 - [Azeria Labs](https://azeria-labs.com/) - Tutorials on Arm assembly, exploitation, and reverse engineering.
+- [OpenDeviceDB](https://opendevicedb.org/) - Searchable directory linking device models and hardware identifiers to firmware, drivers, tools, and protocol research.
 
 ## YouTube Channels
 - [Colin O'Flynn](https://www.youtube.com/@ColinOFlynn) - Fault injection, side-channel analysis, and ChipWhisperer demos.
