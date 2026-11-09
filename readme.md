@@ -117,6 +117,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 ### USB
 - [Cynthion](https://greatscottgadgets.com/cynthion/) - Open-source USB test instrument from Great Scott Gadgets for analyzing and emulating USB devices.
 - [Facedancer](https://github.com/greatscottgadgets/facedancer) - Python framework for emulating and fuzzing USB devices with GreatFET or Cynthion hardware.
+- [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - Infers USB gadget protocols from labelled usbmon/USBPcap captures and generates a pyusb driver.
 
 ### Automotive and CAN Bus
 - [can-utils](https://github.com/linux-can/can-utils) - Linux SocketCAN user-space utilities for dumping, sending, and replaying CAN traffic.
