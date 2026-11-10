@@ -203,6 +203,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Hak5 Packet Squirrel](https://shop.hak5.org/products/packet-squirrel-mark-ii) - Ethernet tap for capturing device traffic.
 - [esptool](https://github.com/espressif/esptool) - Espressif's utility for talking to the ROM bootloader to read and write flash and eFuses on ESP chips.
 - [IMSProg](https://github.com/bigbigmdm/IMSProg) - Open-source programmer software for CH341A-based SPI and I2C flash and EEPROM programmers.
+- [iotaudit](https://github.com/emirmrkaljevic/iotaudit) - Local CLI and MCP server that discovers and inventories IoT devices on your own LAN from PCAP or live capture, with redacted reports.
 
 ## Penetration Test Use-Cases
 - [Getting Root on Philips Hue Bridge 2.0 by Colin O'Flynn](https://colinoflynn.com/2016/07/getting-root-on-philips-hue-bridge-2-0/) - Hardware attack walkthrough on the Philips Hue Bridge 2.0.
