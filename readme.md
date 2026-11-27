@@ -125,6 +125,7 @@ Thanks to all [contributors](https://github.com/kayranfatih/awesome-iot-and-hard
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou) - Automotive security exploration tool for discovering ECUs and services over CAN, UDS, and XCP.
 - [python-can](https://github.com/hardbyte/python-can) - Python library providing a common interface to many CAN hardware adapters.
 - [ICSim](https://github.com/zombieCraig/ICSim) - Instrument cluster simulator for practicing CAN bus hacking with SocketCAN.
+- [CAN Bus Reverse Engineering Skills](https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills) - Claude Code skills for reverse engineering CAN signals into DBC files with python-can.
 
 ### Fault Injection - Glitching and Side Channel Analysis
 - [An Introduction to Fault Injection by NCC Group](https://www.nccgroup.com/research/an-introduction-to-fault-injection-part-13/) - First part of a series introducing fault injection techniques and their impact on embedded devices.
